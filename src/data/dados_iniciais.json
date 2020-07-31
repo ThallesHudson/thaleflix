@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "TEDx",
+      "link": "https://www.youtube.com/watch?v=7vTtWRGMAlo",
+      "cor": "#ff0000",
+      "link_extra": {
+        "text": "Brasil",
+        "url": "https://www.youtube.com/watch?v=7vTtWRGMAlo"
+      },
+      "videos": [
+        {
+          "titulo": "Mochilando pelo o sudeste da Asia",
+          "url": "https://www.youtube.com/watch?v=bysaKYJdALU&t=36s"
+        },
+        {
+          "titulo": "Não existe não consigo",
+          "url": "https://www.youtube.com/watch?v=7vTtWRGMAlo"
+        },
+        {
+          "titulo": "Os três piores conselhos sobre dinheiro",
+          "url": "https://www.youtube.com/watch?v=g8ou7Y87rdA"
+        },
+        {
+          "titulo": "Pare de Desistir",
+          "url": "https://www.youtube.com/watch?v=qZskijjPYuA&t=54s"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=WauIURFTpEc"
+        },
+        {
+          "titulo": "Escolas Matam a Aprendizagem ",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Felicidade é aqui e agora",
+          "url": "https://www.youtube.com/watch?v=HsQx02JdZ2Q"
+        },
+        {
+          "titulo": "Enxergar os limites é diferente de aceitá-los",
+          "url": "https://www.youtube.com/watch?v=pD_L6O2gg9w"
+        }        
+      ]
+    },
+    {
+      "titulo": "TED",
+      "cor": "#ff0000",
+      "link_extra": {
+        "text": "USA",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Flow - Estado de Fluxo - Mihaly Csikszentmihalyi -TED",
+          "url": "https://www.youtube.com/watch?v=BAljbVf-HXA"
+        },
+        {
+          "titulo": "Brene Brown. O poder da vulnerabilidade.",
+          "url": "youtube.com/watch?v=iCvmsMzlF7o"
+        },
+        {
+          "titulo": "What makes a good life? Lessons from the longest study on happiness | Robert Waldinger",
+          "url": "https://www.youtube.com/watch?v=8KkKuTCFvzI"
+        },
+        {
+          "titulo": "Dan Gilbert: Happiness: What Your Mother Didn't Tell You",
+          "url": "https://www.youtube.com/watch?v=b1Y2Z1BGwno"
+        }, 
+        {
+          "titulo": "Dolph Lundgren | On healing and forgiveness | TEDxFulbrightSantaMonica",
+          "url": "https://www.youtube.com/watch?v=iNOE0dZpHcY"
+        }
+      ]
+    },
+    {
+      "titulo": "CASA DO SABER",
+      "cor": "#ff0000",
+      "link_extra": {
+        "text": "O prazer de pensar e aprender",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "O ETERNO RETORNO E O ALÉM-DO-HOMEM",
+          "url": "https://www.youtube.com/watch?v=qDAHX8KnFz0"
+        },
+        {
+          "titulo": "COMO MUDAR HÁBITOS | Fabiano Moulin",
+          "url": "https://www.youtube.com/watch?v=eqpjtVZnDao"
+        },
+        {
+          "titulo": "ENVELHECER, MEMÓRIA E A IMPORTÂNCIA DO SONO | O Melhor De Fabiano Moulin",
+          "url": "https://www.youtube.com/watch?v=XCTNd-fS3FA"
+        },
+        {
+          "titulo": "EQUILÍBRIO DA MENTE E CORPO | Fabiano Moulin",
+          "url": "https://www.youtube.com/watch?v=WhnimPYyxdA"
+        }
+      ]
+    },
+    {
+      "titulo": "café filosófico",
+      "cor": "#ff0000",
+      "videos": [
+        {
+          "titulo": "Nietzsche e os Sentidos da Vida • FERNANDO SCHÜLER",
+          "url": "https://www.youtube.com/watch?v=pkMRvekbRnE"
+        },
+        {
+          "titulo": "Marketing existencial | Luiz Felipe Pondé",
+          "url": "https://www.youtube.com/watch?v=xN4W-rZBMeQ"
+        },
+        {
+          "titulo": "Freud: a sociopatologia da vida cotidiana | Renato Mezan",
+          "url": "https://www.youtube.com/watch?v=AHySNkUnP8Y"
+        },
+        {
+          "titulo": "Ansiedade, pânico e compulsões | Fernanda Pacheco Ferreira",
+          "url": "https://www.youtube.com/watch?v=AU1rlvd6e9k"
+        }
+      ]
+    },
+    {
+      "titulo": "Bodybuilding",
+      "cor": "#ff0000",
+      "link_extra": {
+        "text": "Treino",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Treino 8 - Dorsais e Bíceps com Paulo Muzy e Marcelo Donice",
+          "url": "https://www.youtube.com/watch?v=FqK520gM21Y"
+        },
+        {
+          "titulo": "Tríceps e Pernas com Paulo Muzy e Coach Drago",
+          "url": "https://www.youtube.com/watch?v=I3hEyRxn5vg&t=3600s"
+        },
+        {
+          "titulo": "UM TREINO COM AS LENDAS I O MUSCÚLO QUE O MUZY TEM DIFICULDADE",
+          "url": "https://www.youtube.com/watch?v=6cffkmfNHek"
+        },
+        {
+          "titulo": " Dorsal e Bíceps com Paulo Muzy e Coach Drago",
+          "url": "https://www.youtube.com/watch?v=1QGsKVGeeU8"
+        },
+        {
+          "titulo": "Pernas e Tríceps com Paulo Muzy e Marcelo Donice",
+          "url": "https://www.youtube.com/watch?v=wfN-vZIupoI"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#ff0000",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
